@@ -1,0 +1,3 @@
+C:/Users/ELIO/source/cJSON/cmake-build-debug/CMakeFiles/json.dir
+C:/Users/ELIO/source/cJSON/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ELIO/source/cJSON/cmake-build-debug/CMakeFiles/rebuild_cache.dir
